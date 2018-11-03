@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="10" passed="10">
+  <reporter-output>
+    <line>
+      <![CDATA[Browser Launched]]>
+    </line>
+    <line>
+      <![CDATA[Url Opened]]>
+    </line>
+    <line>
+      <![CDATA[logged in Sucessfully -->>]]>
+    </line>
+    <line>
+      <![CDATA[logged out sucessfully <<--]]>
+    </line>
+    <line>
+      <![CDATA[logged in Sucessfully -->>]]>
+    </line>
+    <line>
+      <![CDATA[logged out sucessfully <<--]]>
+    </line>
+    <line>
+      <![CDATA[logged in Sucessfully -->>]]>
+    </line>
+    <line>
+      <![CDATA[logged out sucessfully <<--]]>
+    </line>
+    <line>
+      <![CDATA[logged in Sucessfully -->>]]>
+    </line>
+    <line>
+      <![CDATA[logged out sucessfully <<--]]>
+    </line>
+    <line>
+      <![CDATA[logged in Sucessfully -->>]]>
+    </line>
+    <line>
+      <![CDATA[logged out sucessfully <<--]]>
+    </line>
+    <line>
+      <![CDATA[logged in Sucessfully -->>]]>
+    </line>
+    <line>
+      <![CDATA[logged out sucessfully <<--]]>
+    </line>
+    <line>
+      <![CDATA[logged in Sucessfully -->>]]>
+    </line>
+    <line>
+      <![CDATA[logged out sucessfully <<--]]>
+    </line>
+    <line>
+      <![CDATA[logged in Sucessfully -->>]]>
+    </line>
+    <line>
+      <![CDATA[logged out sucessfully <<--]]>
+    </line>
+    <line>
+      <![CDATA[logged in Sucessfully -->>]]>
+    </line>
+    <line>
+      <![CDATA[logged out sucessfully <<--]]>
+    </line>
+    <line>
+      <![CDATA[logged in Sucessfully -->>]]>
+    </line>
+    <line>
+      <![CDATA[logged out sucessfully <<--]]>
+    </line>
+    <line>
+      <![CDATA[browser closed]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="53853" started-at="2018-11-02T15:45:39Z" finished-at="2018-11-02T15:46:33Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="53853" started-at="2018-11-02T15:45:39Z" finished-at="2018-11-02T15:46:33Z">
+      <class name="com.actitime.tests.TestCases">
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.actitime.tests.TestCases@3ecd23d9]" name="SetUp" is-config="true" duration-ms="8718" started-at="2018-11-02T15:45:39Z" finished-at="2018-11-02T15:45:48Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser Launched]]>
+            </line>
+            <line>
+              <![CDATA[Url Opened]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="logintest()[pri:0, instance:com.actitime.tests.TestCases@3ecd23d9]" name="logintest" duration-ms="4568" started-at="2018-11-02T15:45:48Z" finished-at="2018-11-02T15:45:52Z">
+          <reporter-output>
+            <line>
+              <![CDATA[logged in Sucessfully -->>]]>
+            </line>
+            <line>
+              <![CDATA[logged out sucessfully <<--]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- logintest -->
+        <test-method status="PASS" signature="logintest()[pri:0, instance:com.actitime.tests.TestCases@3ecd23d9]" name="logintest" duration-ms="4438" started-at="2018-11-02T15:45:52Z" finished-at="2018-11-02T15:45:57Z">
+          <reporter-output>
+            <line>
+              <![CDATA[logged in Sucessfully -->>]]>
+            </line>
+            <line>
+              <![CDATA[logged out sucessfully <<--]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- logintest -->
+        <test-method status="PASS" signature="logintest()[pri:0, instance:com.actitime.tests.TestCases@3ecd23d9]" name="logintest" duration-ms="4413" started-at="2018-11-02T15:45:57Z" finished-at="2018-11-02T15:46:01Z">
+          <reporter-output>
+            <line>
+              <![CDATA[logged in Sucessfully -->>]]>
+            </line>
+            <line>
+              <![CDATA[logged out sucessfully <<--]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- logintest -->
+        <test-method status="PASS" signature="logintest()[pri:0, instance:com.actitime.tests.TestCases@3ecd23d9]" name="logintest" duration-ms="4437" started-at="2018-11-02T15:46:01Z" finished-at="2018-11-02T15:46:05Z">
+          <reporter-output>
+            <line>
+              <![CDATA[logged in Sucessfully -->>]]>
+            </line>
+            <line>
+              <![CDATA[logged out sucessfully <<--]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- logintest -->
+        <test-method status="PASS" signature="logintest()[pri:0, instance:com.actitime.tests.TestCases@3ecd23d9]" name="logintest" duration-ms="4455" started-at="2018-11-02T15:46:05Z" finished-at="2018-11-02T15:46:10Z">
+          <reporter-output>
+            <line>
+              <![CDATA[logged in Sucessfully -->>]]>
+            </line>
+            <line>
+              <![CDATA[logged out sucessfully <<--]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- logintest -->
+        <test-method status="PASS" signature="logintest()[pri:0, instance:com.actitime.tests.TestCases@3ecd23d9]" name="logintest" duration-ms="4395" started-at="2018-11-02T15:46:10Z" finished-at="2018-11-02T15:46:14Z">
+          <reporter-output>
+            <line>
+              <![CDATA[logged in Sucessfully -->>]]>
+            </line>
+            <line>
+              <![CDATA[logged out sucessfully <<--]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- logintest -->
+        <test-method status="PASS" signature="logintest()[pri:0, instance:com.actitime.tests.TestCases@3ecd23d9]" name="logintest" duration-ms="4367" started-at="2018-11-02T15:46:14Z" finished-at="2018-11-02T15:46:19Z">
+          <reporter-output>
+            <line>
+              <![CDATA[logged in Sucessfully -->>]]>
+            </line>
+            <line>
+              <![CDATA[logged out sucessfully <<--]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- logintest -->
+        <test-method status="PASS" signature="logintest()[pri:0, instance:com.actitime.tests.TestCases@3ecd23d9]" name="logintest" duration-ms="4421" started-at="2018-11-02T15:46:19Z" finished-at="2018-11-02T15:46:23Z">
+          <reporter-output>
+            <line>
+              <![CDATA[logged in Sucessfully -->>]]>
+            </line>
+            <line>
+              <![CDATA[logged out sucessfully <<--]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- logintest -->
+        <test-method status="PASS" signature="logintest()[pri:0, instance:com.actitime.tests.TestCases@3ecd23d9]" name="logintest" duration-ms="4455" started-at="2018-11-02T15:46:23Z" finished-at="2018-11-02T15:46:28Z">
+          <reporter-output>
+            <line>
+              <![CDATA[logged in Sucessfully -->>]]>
+            </line>
+            <line>
+              <![CDATA[logged out sucessfully <<--]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- logintest -->
+        <test-method status="PASS" signature="logintest()[pri:0, instance:com.actitime.tests.TestCases@3ecd23d9]" name="logintest" duration-ms="4456" started-at="2018-11-02T15:46:28Z" finished-at="2018-11-02T15:46:32Z">
+          <reporter-output>
+            <line>
+              <![CDATA[logged in Sucessfully -->>]]>
+            </line>
+            <line>
+              <![CDATA[logged out sucessfully <<--]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- logintest -->
+        <test-method status="PASS" signature="testDown()[pri:0, instance:com.actitime.tests.TestCases@3ecd23d9]" name="testDown" is-config="true" duration-ms="708" started-at="2018-11-02T15:46:32Z" finished-at="2018-11-02T15:46:33Z">
+          <reporter-output>
+            <line>
+              <![CDATA[browser closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testDown -->
+      </class> <!-- com.actitime.tests.TestCases -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
