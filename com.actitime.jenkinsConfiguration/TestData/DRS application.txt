@@ -1,0 +1,90 @@
+DRS: replacement for A+
+only for the issue bank life cycles
+
+
+first presentment
+retrieval request-
+fraud/dispute - outgoing chargeback reaches to scheme
+Acknowledgment back file(DRSOUT File) received- chargeback comleted
+card holder credited
+
+reversal
+
+
+imncoming presentment: incorrect product
+if i accept, that fine
+if not go for arbitration chargenack
+acknowledgment process
+if disputes, then schemes will handle
+
+
+case filing syatem:
+master com interface owned system,case filing
+instead of interacting with TRAMS
+handled by MASTERCOM
+
+
+pre compliance: can be raised,producing an image,
+ compliace
+ prearbitraction: issuying bank and acquiring bank has a major hold
+ arbitration: mastercomn directly involved and directa a levid fees
+
+30 to 45 dyas; RR
+max 120 days: chargeback (chargeback reasons from mastercard)
+45 days: incomming representment
+
+
+write off: 
+cr adj: credit adjustement
+
+
+second chargeback: adjustment option: debit adjustment and write off
+
+debit adjustment: 
+
+
+fallback option:
+ write off: excess of transactions
+
+Manual presentment.
+
+fraud transactions: fraud reporting option is used. directly reported to scheme. scheme will have a entry with the BIN's
+moved under special handling
+
+fraud reporting:
+
+warning bulletin: region wise and report, 
+
+
+
+
+auto case creation: customer care system
+dispute initiated.from custoemr care 
+select the transaction. a dispute option, select that and initiate a dispute.
+
+
+add case manually: 16 digit card mumber, select case typr as fraud dispute
+
+atm dispute for TSB
+ case created, 
+
+fraud card transfer: suspect a fraud , transfered to fraud account, banks by default have a fraud account, or it can be 
+generated
+
+
+
+confirm fraud: credit to bi
+
+dispute reason, 
+
+
+oracle database, tpam...using we put SQL query,
+
+web automation framework, object path, 
+
+
+
+
+
+
+
